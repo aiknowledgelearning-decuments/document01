@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>My First Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 100px;
+            background-color: #f5f5f5;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            margin-top: 20px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>はじめてのGithub Pages</h1>
+    <p>このページはGithubから公開されています。</p>
+
+    <button onclick="changeMessage()">クリックしてください</button>
+
+    <p id="message"></p>
+
+    <script>
+        function changeMessage() {
+            document.getElementById("message").innerText = "ボタンがクリックされました！";
+        }
+    </script>
+
+</body>
+</html>
