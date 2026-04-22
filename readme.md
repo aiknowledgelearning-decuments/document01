@@ -1,6 +1,6 @@
 QA+Plain Knowledge Studio - Course Materials
 
-このリポジトリは、Udemy講座 AI Knowledge Studio 用の教材ファイルです。
+このリポジトリは、Udemy講座 QA+Plain Knowledge Studio 用の教材ファイルです。
 講座で使用する Google Colab ノートブック、サンプルデータベース、補助ファイルを公開しています。
 
 この教材で学べること
