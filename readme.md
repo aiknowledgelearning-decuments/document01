@@ -1,47 +1,100 @@
-QA+Plain Knowledge Studio - Course Materials
+# QA+Plain Knowledge Studio - Course Materials
 
-このリポジトリは、Udemy講座 QA+Plain Knowledge Studio 用の教材ファイルです。
-講座で使用する Google Colab ノートブック、サンプルデータベース、補助ファイルを公開しています。
+このリポジトリは、Udemy講座  
+「QA+Plain Knowledge Studio」用の教材ファイルを公開するためのリポジトリです。
 
-この教材で学べること
-GitHub と Google Colab を活用した学習環境の作成
-Python によるデータ取得と加工
-国会議事録 API を利用したデータ収集
-SQLite を使ったデータベース作成
-OpenAI API を活用した QA 生成
-ナレッジ検索システムの基本構成
-フォルダ構成
-section04/ GitHub と Colab の準備
-section05/ API からデータ取得
-section06/ SQLite データベース作成
-section07/ OpenAI API 設定
-section08/ QA データ生成
-section09/ ナレッジ検索の基礎
+講座内で使用する、
 
-※ 構成は更新により変更される場合があります。
+- Google Colab ノートブック
+- サンプルデータ
+- SQLiteデータベース
+- 補助ファイル
 
-使い方
-Udemy講座の該当章を確認します。
-対応するフォルダ内の .ipynb ファイルを開きます。
-Google Colab にアップロード、または GitHub から直接開いて実行します。
-動画の手順に沿って進めてください。
+などを公開しています。
+
+---
+
+# Udemy Course
+
+本教材に対応したUdemy講座はこちらです。
+
+- 初級編 フェーズ1
+  https://www.udemy.com/course/qa-plain-knowledge03/?couponCode=QAPLAIN202605
+- 初級編 フェーズ2
+  https://www.udemy.com/course/qa-plain-knowledge04/?couponCode=QAPLAIN202605
+
+---
+
+# この教材で学べること
+
+この教材では、国会議事録APIを題材として、  
+生成AIを活用した QAナレッジ生成 の流れを段階的に学習します。
+
+学習内容
+
+- GitHub と Google Colab を利用した開発環境構築
+- Python によるデータ取得と加工
+- 国会議事録APIを利用したデータ収集
+- SQLite を利用したデータベース作成
+- OpenAI API を利用した QA生成
+- ChatGPT を利用したナレッジ生成
+- AIを活用した検索システムの基礎
+- RAG / ナレッジ検索の基本構成
+
+---
+
+# セクション構成
+
+## section04
+
+GitHub と Google Colab の準備
+
+## section05
+
+国会議事録APIを利用したデータ取得
+
+## section06
+
+SQLite データベース作成
+
+## section07
+
+OpenAI API の設定
+
+## section08
+
+QAデータ生成
+
+## section09
+
+ナレッジ検索の基礎
+
+---
+
+# 使い方
+
+1. Udemy講座の該当セクションを確認します
+2. 対応するフォルダ内の `.ipynb` ファイルを開きます
+3. Google Colab にアップロードします
+4. 動画の手順に沿ってコードを実行します
+
 動作環境
-Google アカウント
-Google Colab
-Webブラウザ（Chrome / Edge 推奨）
 
-追加の有料データベース契約は不要です。
-教材では SQLite を利用しているため、低コストで学習できます。
+- Googleアカウント
+- Google Colab
+- Chrome / Edge 推奨
 
-注意事項
-本教材は学習目的で提供しています。
-ファイルの再配布、転載、商用利用は禁止します。
-内容は改善のため予告なく更新する場合があります。
-講座について
+---
 
-Udemy講座ページから最新情報をご確認ください。
-動画とあわせて利用することで、理解しやすい構成になっています。
+# 注意事項
 
-Author
+- 本教材は学習目的で提供しています
+- ファイルの再配布、転載、商用利用は禁止します
+- 教材内容は更新により変更される場合があります
+- 最新情報はUdemy講座ページをご確認ください
+
+---
+
+# Author
 
 QA+Plain Knowledge Studio
